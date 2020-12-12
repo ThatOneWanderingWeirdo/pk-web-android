@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pk-webs/static/css/main.243a148f.chunk.css",
-    "main.js": "/pk-webs/static/js/main.107aab15.chunk.js",
-    "main.js.map": "/pk-webs/static/js/main.107aab15.chunk.js.map",
+    "main.js": "/pk-webs/static/js/main.722bf81c.chunk.js",
+    "main.js.map": "/pk-webs/static/js/main.722bf81c.chunk.js.map",
     "runtime-main.js": "/pk-webs/static/js/runtime-main.12a55e5b.js",
     "runtime-main.js.map": "/pk-webs/static/js/runtime-main.12a55e5b.js.map",
     "static/css/2.7ac4f17d.chunk.css": "/pk-webs/static/css/2.7ac4f17d.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.7ac4f17d.chunk.css",
     "static/js/2.3cd25d05.chunk.js",
     "static/css/main.243a148f.chunk.css",
-    "static/js/main.107aab15.chunk.js"
+    "static/js/main.722bf81c.chunk.js"
   ]
 }
