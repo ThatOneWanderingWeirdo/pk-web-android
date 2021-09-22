@@ -1,0 +1,7 @@
+{
+  "name": "pk-web",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

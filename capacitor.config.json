@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.pk-web",
+  "appName": "pk-web",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}
