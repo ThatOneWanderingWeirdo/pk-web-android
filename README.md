@@ -1,6 +1,6 @@
 # pk-webs
-A web interface for [pluralkit](https://pluralkit.me/).
-Check it out at https://spectralitree.github.io/pk-webs/
+A very bad android port of web interface https://spectralitree.github.io/pk-webs/
+Provided as is, we are still learning how android apps work.
 
 
 ### Please note:
