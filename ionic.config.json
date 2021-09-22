@@ -1,5 +1,5 @@
 {
-  "name": "pk-web",
+  "name": "pkweb",
   "integrations": {
     "capacitor": {}
   },

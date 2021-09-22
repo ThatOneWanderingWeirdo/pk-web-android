@@ -1,6 +1,6 @@
 {
-  "appId": "io.ionic.pk-web",
-  "appName": "pk-web",
+  "appId": "io.ionic.pkweb",
+  "appName": "pkweb",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "build",
