@@ -26,6 +26,7 @@ const Navbar = ({ setIsSubmit, forceUpdate}) => {
             <BS.NavDropdown id="menu" className="mr-auto" title="Menu">
             {/* for some reason just using react router's link elements doesn't work here, maybe look into that */}
             <BS.NavDropdown.Item onClick={() => history.push('/dash')} >Dash</BS.NavDropdown.Item>
+                <BS.NavDropdown.Item onClick={() => history.push('/Switch')} >Dash</BS.NavDropdown.Item>
             <BS.NavDropdown.Item onClick={() => history.push('/settings')} >Settings</BS.NavDropdown.Item>
             <BS.NavDropdown.Item onClick={() => history.push('/template')}>Templates</BS.NavDropdown.Item>
             <BS.NavDropdown.Item onClick={() => history.push('/profile')}>Public profile</BS.NavDropdown.Item>
